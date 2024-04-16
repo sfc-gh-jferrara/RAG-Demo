@@ -1,4 +1,5 @@
-RAG Demo Readme
+RAG/Vector Embedding Demo Readme
+** Disclaimer: This demo was originally produced by Sean Morris (Snowflake SE). I have taken that demo and created an official repo/scripts so it is easily reproducible in SE demo accounts**
 
 
 Prerequisites:
